@@ -1,0 +1,32 @@
+﻿  Engine.cpp
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x861 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Camera.h(81,23): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(25,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputManager.cpp
+  SoftRenderer.cpp
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x861 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Camera.h(81,23): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(25,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(83,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(372,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(378,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(379,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(380,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(425,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(426,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(427,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(482,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(483,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(484,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.cpp(665,32): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.cpp(32,34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.cpp(69,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.cpp(70,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinAdapter.cpp
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x861 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Camera.h(81,23): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(25,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\WinAdapter.cpp(113,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Engine.vcxproj -> C:\Users\k9996\Desktop\Renderer\HMRenderer\x64\Debug\Engine.exe
